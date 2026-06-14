@@ -1,9 +1,6 @@
 # 🩺 DiabetesScan
 ### Predição de Risco de Diabetes Tipo 2 com Machine Learning
 
-**Projeto A3 — Inteligência Artificial (UC 0014334) — USJT — 1º Semestre 2026**  
-Prof. Jessé Guimarães | Prof. Fernando Mori
-
 ---
 
 ## 📋 Descrição
