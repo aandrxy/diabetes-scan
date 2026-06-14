@@ -129,17 +129,6 @@ Todos otimizados com **GridSearchCV + 5-Fold Cross Validation**.
 
 ---
 
-## 👥 Integrantes
-
-| Nome | RA |
-|------|----|
-| [Nome 1] | [RA] |
-| [Nome 2] | [RA] |
-| [Nome 3] | [RA] |
-| [Nome 4] | [RA] |
-
----
-
 ## 📚 Referências
 
 - Smith, J.W. et al. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. *Proceedings of SCAMC*.
