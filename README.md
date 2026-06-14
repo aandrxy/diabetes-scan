@@ -42,7 +42,7 @@ diabetes_scan/
 
 ```bash
 # 1. Clone o repositório
-git clone git clone https://github.com/aandrxy/diabetes-scan.git
+git clone https://github.com/aandrxy/diabetes-scan.git
 cd diabetes-scan
 
 # 2. Crie o ambiente virtual
